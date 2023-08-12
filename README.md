@@ -1,3 +1,16 @@
+<h1 align="center">Hi, I'm ARYAN</h1>
+<h3 align="center">Undergraduate | Android developer | Programmer </h3>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/aryan-shivva-839669256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" /></a>
+
+<a href="aryanshivva20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail logo" /></a>
+
+<a href="https://www.kaggle.com/aryanshivva"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="E-Mail logo" /></a>
+</p>
+
+
 # 💫 About Me:
 🏫 I am a Student at CVR College of Engineering, Hyderabad<br>👨‍💻 All of my projects are available at https://github.com/AryanShivva?tab=repositories<br>💻 Working on Android Development
 
